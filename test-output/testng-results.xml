@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+      <class name="SeleniumPractice.TestNGDemo2">
+        <test-method status="PASS" signature="m0()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m0" is-config="true" duration-ms="13" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m0 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m2" is-config="true" duration-ms="0" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method status="PASS" signature="m3()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m3" is-config="true" duration-ms="0" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method status="PASS" signature="m67()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m67" is-config="true" duration-ms="2" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m67 -->
+        <test-method status="PASS" signature="m68()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m68" is-config="true" duration-ms="0" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m68 -->
+        <test-method status="PASS" signature="m69()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m69" is-config="true" duration-ms="0" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m69 -->
+        <test-method status="PASS" signature="m600()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m600" is-config="true" duration-ms="1" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m600 -->
+        <test-method status="PASS" signature="m601()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m601" is-config="true" duration-ms="0" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m601 -->
+        <test-method status="PASS" signature="m602()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m602" is-config="true" duration-ms="0" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m602 -->
+        <test-method status="PASS" signature="m603()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m603" is-config="true" duration-ms="1" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m603 -->
+        <test-method status="PASS" signature="m11()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m11" is-config="true" duration-ms="0" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m11 -->
+        <test-method status="PASS" signature="m4()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m4" duration-ms="9" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+        <test-method status="PASS" signature="m1001()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m1001" is-config="true" duration-ms="1" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1001 -->
+        <test-method status="PASS" signature="m5()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m5" duration-ms="5" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+        <test-method status="PASS" signature="m11()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m11" is-config="true" duration-ms="0" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m11 -->
+        <test-method status="PASS" signature="m1001()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m1001" is-config="true" duration-ms="1" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1001 -->
+        <test-method status="PASS" signature="m11()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m11" is-config="true" duration-ms="1" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m11 -->
+        <test-method status="PASS" signature="m7()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m7" duration-ms="3" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m7 -->
+        <test-method status="PASS" signature="m1001()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m1001" is-config="true" duration-ms="1" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1001 -->
+        <test-method status="PASS" signature="m61()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m61" is-config="true" duration-ms="1" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m61 -->
+        <test-method status="PASS" signature="m60()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m60" is-config="true" duration-ms="0" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m60 -->
+        <test-method status="PASS" signature="m62()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m62" is-config="true" duration-ms="1" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m62 -->
+        <test-method status="PASS" signature="m100()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m100" is-config="true" duration-ms="1" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m100 -->
+        <test-method status="PASS" signature="m103()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m103" is-config="true" duration-ms="1" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m103 -->
+        <test-method status="PASS" signature="m102()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m102" is-config="true" duration-ms="0" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m102 -->
+        <test-method status="PASS" signature="m101()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m101" is-config="true" duration-ms="0" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m101 -->
+        <test-method status="PASS" signature="m80()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m80" is-config="true" duration-ms="1" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m80 -->
+        <test-method status="PASS" signature="m79()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m79" is-config="true" duration-ms="0" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m79 -->
+        <test-method status="PASS" signature="m81()[pri:0, instance:SeleniumPractice.TestNGDemo2@480bdb19]" name="m81" is-config="true" duration-ms="0" started-at="2020-06-10T01:16:32 IST" finished-at="2020-06-10T01:16:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m81 -->
+      </class> <!-- SeleniumPractice.TestNGDemo2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
